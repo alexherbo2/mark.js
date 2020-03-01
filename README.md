@@ -4,11 +4,11 @@ mark.js is a JavaScript library to save and restore document position.
 
 ## Installation
 
-Add [`mark.js`](scripts/mark.js) to your project.
+Add [`mark.js`](src/mark.js) to your project.
 
 ## Methods
 
-See the [source](scripts/mark.js) for a complete reference.
+See the [source](src/mark.js) for a complete reference.
 
 ###### `constructor()`
 
